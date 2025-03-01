@@ -1,0 +1,12 @@
+# Ignorar archivos .class (compilados de Java)
+*.class
+
+# Ignorar carpetas generadas por IDEs
+bin/
+.idea/
+*.iml
+out/
+target/
+
+# Ignorar archivos de configuración local
+.DS_Store
